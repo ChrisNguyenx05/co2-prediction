@@ -3,7 +3,7 @@
 # Dataset
 
 CO2 Dataset
-
+This dataset contains monthly atmospheric carbon dioxide (CO₂) concentration records, commonly associated with long-term climate monitoring programs
 Southern Oscillation Index (SOI) Dataset
 
 # SARIMA - SARIMAX
