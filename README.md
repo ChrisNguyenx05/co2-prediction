@@ -6,7 +6,7 @@ CO2 Dataset
 This dataset contains monthly atmospheric carbon dioxide (CO₂) concentration records, commonly associated with long-term climate monitoring programs
 Southern Oscillation Index (SOI) Dataset
 
-# SARIMA - SARIMAX
+# SARIMA and SARIMAX
 
 1. Model Identification & Parameter Tuning
  - Stationarity Analysis: The Augmented Dickey-Fuller (ADF) test was utilized to determine the order of differencing ($d, D$) required to achieve stationarity.
